@@ -1,0 +1,3 @@
+/home/henrik/Desktop/Backup/Programming/cpp/sfml/CMakeFiles/rebuild_cache.dir
+/home/henrik/Desktop/Backup/Programming/cpp/sfml/CMakeFiles/edit_cache.dir
+/home/henrik/Desktop/Backup/Programming/cpp/sfml/CMakeFiles/sfml.dir
